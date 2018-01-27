@@ -11,10 +11,14 @@
     "url": "git+https://github.com/brunopsabino/hello-js-se05-ep04.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "bruno.p.sabino@gmail.com",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/brunopsabino/hello-js-se05-ep04/issues"
   },
-  "homepage": "https://github.com/brunopsabino/hello-js-se05-ep04#readme"
+  "homepage": "https://github.com/brunopsabino/hello-js-se05-ep04#readme",
+  "dependencies": {
+    "knex": "^0.14.2",
+    "sqlite3": "^3.1.13"
+  }
 }
